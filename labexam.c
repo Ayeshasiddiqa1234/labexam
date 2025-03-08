@@ -2,5 +2,5 @@
 #include<conio.h>
 void main()
 {
-printf("labexam");
+printf("labexam for today");
 }
